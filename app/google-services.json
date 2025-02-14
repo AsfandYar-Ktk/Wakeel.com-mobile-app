@@ -7,27 +7,27 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:217900698298:android:29de417174efa3ce5c1083",
+        "mobilesdk_app_id": "1:",
         "android_client_info": {
           "package_name": "com.midterm.wakeelappv1"
         }
       },
       "oauth_client": [
         {
-          "client_id": "217900698298-iq5l7eqbsneisg7qg6jc0vdis197cslr.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAltrS57lAcEErbbB4k5IdbHlcqbQZpCN4"
+          "current_key": ""
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "217900698298-iq5l7eqbsneisg7qg6jc0vdis197cslr.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 3
             }
           ]
